@@ -1,0 +1,6 @@
+# 每行一个频道，支持三种写法（# 后面是注释）：
+#   @handle                       例如 @mkbhd
+#   UC 开头的频道 ID               例如 UCBJycsmduvYEL83R_U4JriQ
+#   频道网址                       例如 https://www.youtube.com/@mkbhd
+
+@mkbhd
